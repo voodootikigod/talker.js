@@ -3,7 +3,7 @@ talker.js
 
 (C) Chris Williams (voodootikigod@gmail.com) 2009, Licensed under the MIT-LICENSE
 
-An client library for accessing [Talker](http://talkerapp.com) [API services](http://talkerapp.com/api/rest). It wraps up the streaming JSON API protocol and makes it consumable through various callbacks which are passed the returned JSON object as .
+An client library for accessing [Talker](http://talkerapp.com) [API services](http://talkerapp.com/api/rest). It wraps up the streaming JSON API protocol and makes it consumable through various callbacks which are passed the returned JSON object. I have provided a simple logger application, aptly named logger.js, that simply records daily logs of activity.
 
 
 # Usage
